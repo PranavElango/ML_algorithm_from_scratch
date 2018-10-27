@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np #importing necessary libraries
 
 class linearRegression:
     b = [0,0]
